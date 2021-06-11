@@ -1,1 +1,4 @@
-remote_theme: jsbergbau/primer
+theme: jekyll-theme-primer
+
+title: Github Repositories overview of JSBergbau
+description: This site lists all repositories of JSBergbau on Github. Hopefully this leads to a faster indexation by Google
