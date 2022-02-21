@@ -73,11 +73,11 @@ Last update: 2021-09-04T19:15:54Z
 
 URL: [https://github.com/JsBergbau/DTMF-Audacity-Filtercurve-Equalizer](https://github.com/JsBergbau/DTMF-Audacity-Filtercurve-Equalizer)
 
-Description: With this filter curve or the filter curve generator the sound can be filtered in such a way that the DTMF tones are highlighted to be able to decode them more easily. 
+Description: With this filter curve or the filter curve generator for the filter curve equalizer the sound can be filtered in such a way that the DTMF tones are highlighted to be able to decode them more easily. Different EQ curve presets are available for download. 
 
 Created:  2022-02-21T22:56:23Z 
 
-Last update: 2022-02-21T23:26:16Z 
+Last update: 2022-02-21T23:33:33Z 
 
 ## [eu-digital-covid-vaccination-certificate-decoder](https://github.com/JsBergbau/eu-digital-covid-vaccination-certificate-decoder) 
 
