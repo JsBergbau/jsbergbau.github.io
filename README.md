@@ -17,7 +17,7 @@ Description: Proof of concept Repeater für den Alpha Reader
 
 Created:  2019-12-30T02:05:40Z 
 
-Last update: 2021-01-02T20:46:26Z 
+Last update: 2022-02-19T11:34:58Z 
 
 ## [BaikalAnleitung](https://github.com/JsBergbau/BaikalAnleitung) 
 
@@ -27,7 +27,7 @@ Description: Tutorial / Anleitung um mit Baikal Kontakte und Kalender sicher zu 
 
 Created:  2020-07-10T07:06:01Z 
 
-Last update: 2022-02-02T13:27:12Z 
+Last update: 2022-02-14T12:17:07Z 
 
 ## [BindToInterface](https://github.com/JsBergbau/BindToInterface) 
 
@@ -37,7 +37,7 @@ Description: With this program you can bind applications to a specific network i
 
 Created:  2021-05-11T19:15:34Z 
 
-Last update: 2022-01-31T12:16:21Z 
+Last update: 2022-02-17T12:32:11Z 
 
 ## [Bonobo-Timeseries-Data-Compression](https://github.com/JsBergbau/Bonobo-Timeseries-Data-Compression) 
 
@@ -69,6 +69,16 @@ Created:  2021-02-12T17:20:05Z
 
 Last update: 2021-09-04T19:15:54Z 
 
+## [DTMF-Audacity-Filtercurve-Equalizer](https://github.com/JsBergbau/DTMF-Audacity-Filtercurve-Equalizer) 
+
+URL: [https://github.com/JsBergbau/DTMF-Audacity-Filtercurve-Equalizer](https://github.com/JsBergbau/DTMF-Audacity-Filtercurve-Equalizer)
+
+Description: With this filter curve or the filter curve generator the sound can be filtered in such a way that the DTMF tones are highlighted to be able to decode them more easily. 
+
+Created:  2022-02-21T22:56:23Z 
+
+Last update: 2022-02-21T23:26:16Z 
+
 ## [eu-digital-covid-vaccination-certificate-decoder](https://github.com/JsBergbau/eu-digital-covid-vaccination-certificate-decoder) 
 
 URL: [https://github.com/JsBergbau/eu-digital-covid-vaccination-certificate-decoder](https://github.com/JsBergbau/eu-digital-covid-vaccination-certificate-decoder)
@@ -77,7 +87,7 @@ Description: With this software you can decode the data stored in your EU Digita
 
 Created:  2021-07-06T14:55:15Z 
 
-Last update: 2021-12-30T22:45:55Z 
+Last update: 2022-02-06T22:47:20Z 
 
 ## [GCC-cross-compiler-for-Raspberry-PI-Zero-W](https://github.com/JsBergbau/GCC-cross-compiler-for-Raspberry-PI-Zero-W) 
 
@@ -127,7 +137,7 @@ Description: Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 inc
 
 Created:  2020-01-05T00:22:26Z 
 
-Last update: 2022-01-30T12:51:56Z 
+Last update: 2022-02-20T15:22:13Z 
 
 ## [node-red-contrib-ccs811-airquality-sensor](https://github.com/JsBergbau/node-red-contrib-ccs811-airquality-sensor) 
 
@@ -193,11 +203,11 @@ Last update: 2022-02-02T17:24:22Z
 
 URL: [https://github.com/JsBergbau/OpenJDK-Raspberry-Pi-Zero-W-armv6](https://github.com/JsBergbau/OpenJDK-Raspberry-Pi-Zero-W-armv6)
 
-Description: In this repository you find OpenJDK builds for Raspberry PI Zero W / armv6 architecture and also a tutorial how to build your own OpenJDK release in case you need that 
+Description: In this repository you find OpenJDK builds and download for Raspberry PI Zero W / armv6 architecture and also a tutorial how to build your own OpenJDK release in case you need that 
 
 Created:  2022-02-02T14:59:01Z 
 
-Last update: 2022-02-02T14:59:01Z 
+Last update: 2022-02-06T09:02:16Z 
 
 ## [Opt3001](https://github.com/JsBergbau/Opt3001) 
 
