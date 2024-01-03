@@ -7,7 +7,7 @@ Description: Grundfos Pumpendaten mit dem Alpha Reader MI401 einfach auslesen
 
 Created:  2019-12-29T20:00:17Z 
 
-Last update: 2022-01-31T06:43:35Z 
+Last update: 2023-10-02T16:26:06Z 
 
 ## [AlphaRepeater](https://github.com/JsBergbau/AlphaRepeater) 
 
@@ -17,7 +17,7 @@ Description: Proof of concept Repeater für den Alpha Reader
 
 Created:  2019-12-30T02:05:40Z 
 
-Last update: 2022-02-19T11:34:58Z 
+Last update: 2022-12-03T13:26:22Z 
 
 ## [BaikalAnleitung](https://github.com/JsBergbau/BaikalAnleitung) 
 
@@ -27,7 +27,7 @@ Description: Tutorial / Anleitung um mit Baikal Kontakte und Kalender sicher zu 
 
 Created:  2020-07-10T07:06:01Z 
 
-Last update: 2022-02-14T12:17:07Z 
+Last update: 2023-12-25T17:41:23Z 
 
 ## [BindToInterface](https://github.com/JsBergbau/BindToInterface) 
 
@@ -37,7 +37,7 @@ Description: With this program you can bind applications to a specific network i
 
 Created:  2021-05-11T19:15:34Z 
 
-Last update: 2022-02-17T12:32:11Z 
+Last update: 2023-12-18T10:44:45Z 
 
 ## [Bonobo-Timeseries-Data-Compression](https://github.com/JsBergbau/Bonobo-Timeseries-Data-Compression) 
 
@@ -49,6 +49,16 @@ Created:  2021-04-27T16:14:27Z
 
 Last update: 2021-05-01T15:57:11Z 
 
+## [BresserCO2](https://github.com/JsBergbau/BresserCO2) 
+
+URL: [https://github.com/JsBergbau/BresserCO2](https://github.com/JsBergbau/BresserCO2)
+
+Description: This repository is for the Bresser CO2 meter with Datalogger 
+
+Created:  2024-01-02T23:43:02Z 
+
+Last update: 2024-01-02T23:43:40Z 
+
 ## [CCS811-Firmware-Updater](https://github.com/JsBergbau/CCS811-Firmware-Updater) 
 
 URL: [https://github.com/JsBergbau/CCS811-Firmware-Updater](https://github.com/JsBergbau/CCS811-Firmware-Updater)
@@ -57,7 +67,7 @@ Description: A python script to update CCS811 airquality sensor firmware
 
 Created:  2021-01-23T21:12:26Z 
 
-Last update: 2021-01-29T00:13:46Z 
+Last update: 2022-04-03T19:15:30Z 
 
 ## [CCS811_MH-Z19_Test_Comparison_Review](https://github.com/JsBergbau/CCS811_MH-Z19_Test_Comparison_Review) 
 
@@ -67,7 +77,7 @@ Description: None
 
 Created:  2021-02-12T17:20:05Z 
 
-Last update: 2021-09-04T19:15:54Z 
+Last update: 2022-04-04T21:01:31Z 
 
 ## [DTMF-Audacity-Filtercurve-Equalizer](https://github.com/JsBergbau/DTMF-Audacity-Filtercurve-Equalizer) 
 
@@ -87,7 +97,7 @@ Description: With this software you can decode the data stored in your EU Digita
 
 Created:  2021-07-06T14:55:15Z 
 
-Last update: 2022-02-06T22:47:20Z 
+Last update: 2022-03-15T20:10:20Z 
 
 ## [GCC-cross-compiler-for-Raspberry-PI-Zero-W](https://github.com/JsBergbau/GCC-cross-compiler-for-Raspberry-PI-Zero-W) 
 
@@ -97,7 +107,7 @@ Description: In this repo you find a gcc cross compiler for raspberry PI Zero W 
 
 Created:  2022-02-02T15:45:41Z 
 
-Last update: 2022-02-02T15:45:41Z 
+Last update: 2023-12-05T17:06:31Z 
 
 ## [Github-Pages-Repository-Overview-Generator](https://github.com/JsBergbau/Github-Pages-Repository-Overview-Generator) 
 
@@ -117,7 +127,7 @@ Description: None
 
 Created:  2021-01-24T22:15:35Z 
 
-Last update: 2021-05-12T11:21:38Z 
+Last update: 2023-12-28T20:44:22Z 
 
 ## [HeizkoerperLeistungssteigerung](https://github.com/JsBergbau/HeizkoerperLeistungssteigerung) 
 
@@ -137,7 +147,7 @@ Description: Read the values of the Xiaomi Mi Bluetooth Temperature sensor 2 inc
 
 Created:  2020-01-05T00:22:26Z 
 
-Last update: 2022-02-20T15:22:13Z 
+Last update: 2024-01-03T00:03:50Z 
 
 ## [node-red-contrib-ccs811-airquality-sensor](https://github.com/JsBergbau/node-red-contrib-ccs811-airquality-sensor) 
 
@@ -177,7 +187,7 @@ Description: None
 
 Created:  2020-11-22T00:34:16Z 
 
-Last update: 2022-01-21T17:42:21Z 
+Last update: 2022-07-10T09:57:12Z 
 
 ## [nullmailer-Rewrite-Wrapper](https://github.com/JsBergbau/nullmailer-Rewrite-Wrapper) 
 
@@ -187,7 +197,7 @@ Description: Force a fixed from address and redirect mails to local users with n
 
 Created:  2019-01-27T17:05:52Z 
 
-Last update: 2022-01-14T09:16:42Z 
+Last update: 2022-12-28T15:13:23Z 
 
 ## [Omada-SDN-Controller-mongodb-Raspberry-PI](https://github.com/JsBergbau/Omada-SDN-Controller-mongodb-Raspberry-PI) 
 
@@ -197,7 +207,7 @@ Description: Here you can download precompiled mongodb version 3.2.12 and find d
 
 Created:  2021-06-05T15:25:10Z 
 
-Last update: 2022-02-02T17:24:22Z 
+Last update: 2023-10-02T15:25:04Z 
 
 ## [OpenJDK-Raspberry-Pi-Zero-W-armv6](https://github.com/JsBergbau/OpenJDK-Raspberry-Pi-Zero-W-armv6) 
 
@@ -207,7 +217,7 @@ Description: In this repository you find OpenJDK builds and download for Raspber
 
 Created:  2022-02-02T14:59:01Z 
 
-Last update: 2022-02-06T09:02:16Z 
+Last update: 2023-11-08T09:52:26Z 
 
 ## [Opt3001](https://github.com/JsBergbau/Opt3001) 
 
@@ -228,24 +238,4 @@ Description: Just a short comparison between Raspberry PI 400 and Raspberry PI 4
 Created:  2021-02-04T01:15:50Z 
 
 Last update: 2021-02-04T02:02:20Z 
-
-## [TelekomFonHotspotLogin](https://github.com/JsBergbau/TelekomFonHotspotLogin) 
-
-URL: [https://github.com/JsBergbau/TelekomFonHotspotLogin](https://github.com/JsBergbau/TelekomFonHotspotLogin)
-
-Description: With this script you can easily login to a Telekom FON Hotspot 
-
-Created:  2020-03-22T22:50:28Z 
-
-Last update: 2021-05-28T14:49:50Z 
-
-## [TFACO2AirCO2ntrol_CO2Meter](https://github.com/JsBergbau/TFACO2AirCO2ntrol_CO2Meter) 
-
-URL: [https://github.com/JsBergbau/TFACO2AirCO2ntrol_CO2Meter](https://github.com/JsBergbau/TFACO2AirCO2ntrol_CO2Meter)
-
-Description: Read TFA AirCO2ntrol Mini and CO2-Meter with python3 
-
-Created:  2021-02-07T20:40:10Z 
-
-Last update: 2021-10-06T10:57:54Z 
 
