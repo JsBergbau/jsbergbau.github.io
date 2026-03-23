@@ -239,3 +239,63 @@ Created:  2020-02-01T22:04:05Z
 
 Last update: 2020-03-03T11:56:49Z 
 
+## [RaspberryPi-FDE-pre-boot-authentication](https://github.com/JsBergbau/RaspberryPi-FDE-pre-boot-authentication) 
+
+URL: [https://github.com/JsBergbau/RaspberryPi-FDE-pre-boot-authentication](https://github.com/JsBergbau/RaspberryPi-FDE-pre-boot-authentication)
+
+Description: None 
+
+Created:  2024-11-20T18:28:52Z 
+
+Last update: 2024-11-28T19:21:40Z 
+
+## [RPI4B_vs_RPI400](https://github.com/JsBergbau/RPI4B_vs_RPI400) 
+
+URL: [https://github.com/JsBergbau/RPI4B_vs_RPI400](https://github.com/JsBergbau/RPI4B_vs_RPI400)
+
+Description: Just a short comparison between Raspberry PI 400 and Raspberry PI 4B 4GB   
+
+Created:  2021-02-04T01:15:50Z 
+
+Last update: 2021-02-04T02:02:20Z 
+
+## [TelekomFonHotspotLogin](https://github.com/JsBergbau/TelekomFonHotspotLogin) 
+
+URL: [https://github.com/JsBergbau/TelekomFonHotspotLogin](https://github.com/JsBergbau/TelekomFonHotspotLogin)
+
+Description: With this script you can easily login to a Telekom FON Hotspot 
+
+Created:  2020-03-22T22:50:28Z 
+
+Last update: 2024-07-06T20:35:52Z 
+
+## [TFACO2AirCO2ntrol_CO2Meter](https://github.com/JsBergbau/TFACO2AirCO2ntrol_CO2Meter) 
+
+URL: [https://github.com/JsBergbau/TFACO2AirCO2ntrol_CO2Meter](https://github.com/JsBergbau/TFACO2AirCO2ntrol_CO2Meter)
+
+Description: Read TFA AirCO2ntrol Mini and CO2-Meter with python3 
+
+Created:  2021-02-07T20:40:10Z 
+
+Last update: 2026-03-13T13:07:00Z 
+
+## [Usenet-Archiving-Tool](https://github.com/JsBergbau/Usenet-Archiving-Tool) 
+
+URL: [https://github.com/JsBergbau/Usenet-Archiving-Tool](https://github.com/JsBergbau/Usenet-Archiving-Tool)
+
+Description: Archiving Usenet discussion over NNTP 
+
+Created:  2021-12-12T22:59:15Z 
+
+Last update: 2021-12-26T15:08:50Z 
+
+## [Verschiedenes](https://github.com/JsBergbau/Verschiedenes) 
+
+URL: [https://github.com/JsBergbau/Verschiedenes](https://github.com/JsBergbau/Verschiedenes)
+
+Description: Sammlung verschiedener Dinge 
+
+Created:  2020-03-02T13:50:22Z 
+
+Last update: 2024-01-08T01:38:56Z 
+
